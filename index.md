@@ -13,9 +13,8 @@ Since September of 2019, I am employed at the Faculty of Electrical Engineering,
 
 ## Publications
 
-# Journal papers
 
-# Conferences
+### Conferences
 
 **L. Martinović**, Z. Zečević and B. Krstajić, "Cooperative Tracking Control of Multi-Agent Systems with General Linear Dynamics," 2021 25th International Conference on Information Technology (IT), 2021, pp. 1-4, doi: 10.1109/IT51528.2021.9390134.
 
