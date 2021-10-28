@@ -10,39 +10,3 @@ Email: [lukam@ucg.ac.me](lukam@ucg.ac.me)
 I received the B.S. and Spec.Sci. degrees in Power and Control Systems from the University of Montenegro in 2018 and 2019, respectively. The title of my Senior Thesis was "State Estimation in Sensor Networks via Distributed Kalman Filter" in the Control Systems Department. In July 2021, I defended the thesis "A Novel Distributed Algorithm for Control of Multi-Agent Systems", thereby obtaining a M.S./MEng degree in the same department. Currently I am enrolled in a PhD program where I work on distributed synchronization and output regulation problems in multi-agent systems.
 
 Since September of 2019, I am employed at the Faculty of Electrical Engineering, University of Montenegro, where I work as a teaching assistant. Some of the main courses that I have TAed are: Control Theory, Optimal Control, Adaptive Control, Digital Control and Robotics.
-
-You can use the [editor on GitHub](https://github.com/lukamart/lukamart.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lukamart/lukamart.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
