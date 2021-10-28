@@ -4,7 +4,7 @@
 
 Email: [lukam@ucg.ac.me](lukam@ucg.ac.me)
 
-## Brief Biography
+## Brief Bio
 I received the B.S. and Spec.Sci. degrees in the Department of Control Systems from Faculty of Electrical Engineering, University of Montenegro in 2018 and 2019, respectively. The title of my Senior Thesis was State Estimation in Sensor Networks via Distributed Kalman Filter. In July 2021, I defended the thesis A Novel Distributed Algorithm for Control of Multi-Agent Systems, for which I have received the M.S. degree from the same department. 
 
 You can use the [editor on GitHub](https://github.com/lukamart/lukamart.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
