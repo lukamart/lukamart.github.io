@@ -16,10 +16,10 @@ Since September of 2019, I am employed at the Faculty of Electrical Engineering,
 
 ### Conferences
 
-**L. Martinović**, Z. Zečević and B. Krstajić, "Cooperative Tracking Control of Multi-Agent Systems with General Linear Dynamics," 2021 25th International Conference on Information Technology (IT), 2021, pp. 1-4. [doi](10.1109/IT51528.2021.9390134).
+**L. Martinović**, Z. Zečević and B. Krstajić, "Cooperative Tracking Control of Multi-Agent Systems with General Linear Dynamics," 2021 25th International Conference on Information Technology (IT), 2021, pp. 1-4. DOI: [10.1109/IT51528.2021.9390134](https://ieeexplore.ieee.org/abstract/document/9390134).
 
-V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparative analysis of Kalman-type filters for effective wind speed estimation," 2021 25th International Conference on Information Technology (IT), 2021, pp. 1-4. [doi](10.1109/IT51528.2021.9390116).
+V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparative analysis of Kalman-type filters for effective wind speed estimation," 2021 25th International Conference on Information Technology (IT), 2021, pp. 1-4. DOI: [10.1109/IT51528.2021.9390116](https://ieeexplore.ieee.org/abstract/document/9390116).
 
-**L. Martinović**, Ž. Zečević and B. Krstajić, "Cooperative Output Regulation of Multi-Agent Systems with Single-Integrator Dynamics," 2020 28th Telecommunications Forum (TELFOR), 2020, pp. 1-4. [doi](10.1109/TELFOR51502.2020.9306565).
+**L. Martinović**, Ž. Zečević and B. Krstajić, "Cooperative Output Regulation of Multi-Agent Systems with Single-Integrator Dynamics," 2020 28th Telecommunications Forum (TELFOR), 2020, pp. 1-4. DOI: [10.1109/TELFOR51502.2020.9306565](https://ieeexplore.ieee.org/abstract/document/9306565).
 
-**L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Control Strategy for Multi-Agent Systems Using Consensus Among Followers," 2020 24th International Conference on Information Technology (IT), 2020, pp. 1-4. [doi](10.1109/IT48810.2020.9070617).
+**L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Control Strategy for Multi-Agent Systems Using Consensus Among Followers," 2020 24th International Conference on Information Technology (IT), 2020, pp. 1-4. DOI: [10.1109/IT48810.2020.9070617](https://ieeexplore.ieee.org/abstract/document/9306565).
