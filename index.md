@@ -1,6 +1,6 @@
 ## Luka Martinovic
 
-Faculty of Electrical Engineering, University of Montenegro
+[Faculty of Electrical Engineering, University of Montenegro](https://www.ucg.ac.me/etf)
 
 Email: lukam@ucg.ac.me
 
