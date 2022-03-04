@@ -15,7 +15,7 @@ Since September of 2019, I am employed at the Faculty of Electrical Engineering,
 
 ### Journals
 
-**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative Tracking Control of Single-Integrator Multi-Agent Systems with Multiple Leaders", European Journal of Control, 2021, ISSN 0947-3580, https://doi.org/10.1016/j.ejcon.2021.11.003.
+**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative Tracking Control of Single-Integrator Multi-Agent Systems with Multiple Leaders", European Journal of Control, 2021, ISSN 0947-3580, [](https://doi.org/10.1016/j.ejcon.2021.11.003).
 
 ### Conferences
 
@@ -27,5 +27,5 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 
 **L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Control Strategy for Multi-Agent Systems Using Consensus Among Followers," 2020 24th International Conference on Information Technology (IT), 2020, pp. 1-4. DOI: [10.1109/IT48810.2020.9070617](https://ieeexplore.ieee.org/abstract/document/9306565).
 
-#### Reviewer for Journals: [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation).
+#### Reviewer for Journals: [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation)
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/)
