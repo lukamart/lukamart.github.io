@@ -7,7 +7,7 @@ Teaching Assistant
 Email: [lukam@ucg.ac.me](lukam@ucg.ac.me)
 
 ## Brief Biography
-I received B.S. and Spec. Sci. degrees in Power and Control Systems from University of Montenegro in 2018 and 2019, respectively. The title of my Senior Thesis was "State Estimation in Sensor Networks via Distributed Kalman Filter", in the Control Systems Department. In July 2021, I defended the thesis "A Novel Distributed Algorithm for Control of Multi-Agent Systems" ([PDF](https://github.com/lukamart/lukamart.github.io/files/7966313/lukamart.pdf) in Montenegrin), thereby obtaining a M.S./MEng degree in the same department. Currently I am enrolled in a PhD program where I work on the distributed synchronization and output regulation problems in multi-agent systems.
+I received B.S. and Spec. Sci. degrees in Power and Control Systems from University of Montenegro in 2018 and 2019, respectively. The title of my Senior Thesis was "State Estimation in Sensor Networks via Distributed Kalman Filter", in the Control Systems Department. In July 2021, I defended the thesis "A Novel Distributed Algorithm for Control of Multi-Agent Systems" ([PDF](https://github.com/lukamart/lukamart.github.io/files/7966313/lukamart.pdf) in Montenegrin), thereby obtaining a M.S./MEng degree in the same department. Currently I am enrolled in a PhD program where I work on the cooperative output regulation and containment control problems in multi-agent systems.
 
 Since September of 2019, I am employed at Faculty of Electrical Engineering, University of Montenegro, where I work as a teaching assistant. Some of the main courses that I have TAed are: Control Theory, Optimal Control, Adaptive Control, Digital Control and Robotics. For a full list of courses, see [courses](https://www.ucg.ac.me/radnik/900931-luka-martinovic).
 
@@ -31,5 +31,5 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 #### Reviewer for Journals: [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation)
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/)
 
-### Active and completed projects
-FAult and STate detection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)) 
+## Active and completed projects
+- FAult and STate detection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)) 
