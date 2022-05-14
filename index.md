@@ -32,4 +32,4 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/)
 
 ## Active and completed projects
-(Completed) FAult and STate detection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)) 
+(Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)) 
