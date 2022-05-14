@@ -31,5 +31,5 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 #### Reviewer for Journals: [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation)
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/)
 
-#### Active and completed projects: 
+### Active and completed projects
 FAult and STate detection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)) 
