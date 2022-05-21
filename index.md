@@ -33,4 +33,5 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 
 ## Active and completed projects
 (Active) MONtenegrin center for Underwater SEnsor Networks - MONUSEN
+
 (Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)) 
