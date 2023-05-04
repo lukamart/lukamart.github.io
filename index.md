@@ -28,10 +28,10 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 
 **L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Control Strategy for Multi-Agent Systems Using Consensus Among Followers," 2020 24th International Conference on Information Technology (IT), 2020, pp. 1-4. DOI: [10.1109/IT48810.2020.9070617](https://ieeexplore.ieee.org/abstract/document/9306565).
 
-#### Reviewer for Journals: [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation), [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), [Journal of Intelligent & Robotic Systems](https://www.springer.com/journal/10846/), [Information Sciences](https://www.sciencedirect.com/journal/information-sciences).
+#### Reviewer for Journals: [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation), [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), [Journal of Intelligent & Robotic Systems](https://www.springer.com/journal/10846/), [Information Sciences](https://www.sciencedirect.com/journal/information-sciences), [Signal Processing](https://www.sciencedirect.com/journal/signal-processing).
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/).
 
 ## Active and completed projects
-(Active) MONtenegrin centre for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)).
+(Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)).
 
 (Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)). 
