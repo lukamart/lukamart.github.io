@@ -18,6 +18,10 @@ Since September of 2019, I am employed at Faculty of Electrical Engineering, Uni
 **Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative Tracking Control of Single-Integrator Multi-Agent Systems with Multiple Leaders", European Journal of Control, 2021, ISSN 0947-3580, [DOI](https://doi.org/10.1016/j.ejcon.2021.11.003).
 
 ### Conferences
+L. Ašanin, **L. Martinović**, Ž. Zečević, M. Bibuli, R. Ferretti and M. Caccia, "Improved LOS Guidance Law for Path Following of Underactuated USV with Sideslip Compensation," 2023 27th International Conference on Information Technology (IT), Zabljak, Montenegro, 2023, pp. 1-4, doi: 10.1109/IT57431.2023.10078645.
+
+U. Janković, **L. Martinović** and Ž. Zečević, "Single Beacon-Based AUV Navigation: A Comparative Study of Kalman Filters," 2023 27th International Conference on Information Technology (IT), Zabljak, Montenegro, 2023, pp. 1-4, doi: 10.1109/IT57431.2023.10078685.
+
 **L. Martinović**, Ž. Zečević and B. Krstajić, "Regulated Output Synchronization of Multi-Agent Systems via Output Feedback," 2022 26th International Conference on Information Technology (IT), 2022, pp. 1-4, doi: [10.1109/IT54280.2022.9743524](https://ieeexplore.ieee.org/document/9743524).
 
 **L. Martinović**, Z. Zečević and B. Krstajić, "Cooperative Tracking Control of Multi-Agent Systems with General Linear Dynamics," 2021 25th International Conference on Information Technology (IT), 2021, pp. 1-4. DOI: [10.1109/IT51528.2021.9390134](https://ieeexplore.ieee.org/abstract/document/9390134).
