@@ -15,11 +15,11 @@ Since September of 2019, I am employed at Faculty of Electrical Engineering, Uni
 
 ### Journals
 
-**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Output containment control in heterogeneous multi-agent systems without exchange of controller states", European Journal of Control, 2023, 100889, ISSN 0947-3580, https://doi.org/10.1016/j.ejcon.2023.100889.
+**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Output containment control in heterogeneous multi-agent systems without exchange of controller states", European Journal of Control, 2023, 100889, ISSN 0947-3580, [https://doi.org/10.1016/j.ejcon.2023.100889](https://doi.org/10.1016/j.ejcon.2023.100889).
 
-**L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Observer Approach to Cooperative Output Regulation of Multi-Agent Systems Without Exchange of Controller States", IEEE Access, vol. 11, pp. 81419-81433, 2023, doi: 10.1109/ACCESS.2023.3300806.
+**L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Observer Approach to Cooperative Output Regulation of Multi-Agent Systems Without Exchange of Controller States", IEEE Access, vol. 11, pp. 81419-81433, 2023, doi: [10.1109/ACCESS.2023.3300806](10.1109/ACCESS.2023.3300806).
 
-**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative tracking control of single-integrator multi-agent systems with multiple leaders", European Journal of Control, Volume 63, 2022, Pages 232-239, ISSN 0947-3580.
+**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative tracking control of single-integrator multi-agent systems with multiple leaders", European Journal of Control, Volume 63, 2022, Pages 232-239, ISSN 0947-3580, [https://doi.org/10.1016/j.ejcon.2021.11.003](https://doi.org/10.1016/j.ejcon.2021.11.003).
 
 ### Conferences
 L. Ašanin, **L. Martinović**, Ž. Zečević, M. Bibuli, R. Ferretti and M. Caccia, "Improved LOS Guidance Law for Path Following of Underactuated USV with Sideslip Compensation," 2023 27th International Conference on Information Technology (IT), Zabljak, Montenegro, 2023, pp. 1-4, doi: 10.1109/IT57431.2023.10078645.
