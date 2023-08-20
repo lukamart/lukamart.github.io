@@ -15,7 +15,11 @@ Since September of 2019, I am employed at Faculty of Electrical Engineering, Uni
 
 ### Journals
 
-**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative Tracking Control of Single-Integrator Multi-Agent Systems with Multiple Leaders", European Journal of Control, 2021, ISSN 0947-3580, [DOI](https://doi.org/10.1016/j.ejcon.2021.11.003).
+**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Output containment control in heterogeneous multi-agent systems without exchange of controller states", European Journal of Control, 2023, 100889, ISSN 0947-3580, https://doi.org/10.1016/j.ejcon.2023.100889.
+
+**L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Observer Approach to Cooperative Output Regulation of Multi-Agent Systems Without Exchange of Controller States", IEEE Access, vol. 11, pp. 81419-81433, 2023, doi: 10.1109/ACCESS.2023.3300806.
+
+**Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative tracking control of single-integrator multi-agent systems with multiple leaders", European Journal of Control, Volume 63, 2022, Pages 232-239, ISSN 0947-3580.
 
 ### Conferences
 L. Ašanin, **L. Martinović**, Ž. Zečević, M. Bibuli, R. Ferretti and M. Caccia, "Improved LOS Guidance Law for Path Following of Underactuated USV with Sideslip Compensation," 2023 27th International Conference on Information Technology (IT), Zabljak, Montenegro, 2023, pp. 1-4, doi: 10.1109/IT57431.2023.10078645.
@@ -36,6 +40,6 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/).
 
 ## Active and completed projects
-(Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)).
+(Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including 2-month long staff-exchange in Genova.
 
 (Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)). 
