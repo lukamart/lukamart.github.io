@@ -40,6 +40,6 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/).
 
 ## Active and completed projects
-(Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including 2-month long staff-exchange in Genova.
+(Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including 2-month long staff-exchange at Italian National Research Council (CNR) in Genova.
 
 (Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)). 
