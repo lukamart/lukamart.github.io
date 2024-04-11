@@ -22,6 +22,12 @@ Since September of 2019, I am employed at Faculty of Electrical Engineering, Uni
 **Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative tracking control of single-integrator multi-agent systems with multiple leaders", European Journal of Control, Volume 63, 2022, Pages 232-239, ISSN 0947-3580, [https://doi.org/10.1016/j.ejcon.2021.11.003](https://doi.org/10.1016/j.ejcon.2021.11.003).
 
 ### Conferences
+Ž. Zečević, **L. Martinović**, L Ašanin, M. Bibuli, R. Ferretti, A. Odetti, S. Aracri and M. Caccia, "KF-based LOS Guidance Law for Path Following of USV: Experiments and Performance Evaluation," 2024 28th International Conference on Information Technology (IT), Zabljak, Montenegro, 2024, pp. 1-4, doi: 10.1109/IT61232.2024.10475764.
+
+V. Ćetković, **L. Martinović** and Ž. Zečević, "Improved LOS Guidance Law for Curved Path Following of Underactuated USV in Presence of Ocean Currents," 2024 28th International Conference on Information Technology (IT), Zabljak, Montenegro, 2024, pp. 1-4, doi: 10.1109/IT61232.2024.10475748.
+
+M. Otašević, **L. Martinović** and Ž. Zečević, "Formation Path Following of Multiple Underactuated Surface Vehicles in Presence of Unknown Environmental Forces," 2024 28th International Conference on Information Technology (IT), Zabljak, Montenegro, 2024, pp. 1-4, doi: 10.1109/IT61232.2024.10475714.
+
 S. Tomović, N. Mišković, J. Neasham, M. Caccia, Ž. Zečević, F. Ferreira, **L. Martinović**, I. Radusinović, "Increasing the Underwater Sensor Networks potential in Montenegro - an overview of the Horizon Europe MONUSEN project," OCEANS 2023 - Limerick, Limerick, Ireland, 2023, pp. 1-6, doi: 10.1109/OCEANSLimerick52467.2023.10244299.
 
 L. Ašanin, **L. Martinović**, Ž. Zečević, M. Bibuli, R. Ferretti and M. Caccia, "Improved LOS Guidance Law for Path Following of Underactuated USV with Sideslip Compensation," 2023 27th International Conference on Information Technology (IT), Zabljak, Montenegro, 2023, pp. 1-4, doi: 10.1109/IT57431.2023.10078645.
