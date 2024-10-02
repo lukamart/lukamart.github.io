@@ -15,6 +15,8 @@ Since September of 2019, I am employed at Faculty of Electrical Engineering, Uni
 
 ### Journals
 
+**L. Martinović**, Ž. Zečević, M. Bibuli, M. Caccia and Đ. Nađ, "Adaptive Observer-Based Line-of-Sight Guidance Law for Path Following of Underactuated Unmanned Surface Vehicle with Sideslip Compensation," in IEEE Access, [doi: 10.1109/ACCESS.2024.3471790](10.1109/ACCESS.2024.3471790).
+
 Žarko Zečević, **Luka Martinović**, Božo Krstajić, "Observer-based bipartite output containment control of heterogeneous multi-agent systems over structurally unbalanced signed graphs", Journal of the Franklin Institute, Volume 361, Issue 14, 2024, 107066, ISSN 0016-0032, [https://doi.org/10.1016/j.jfranklin.2024.107066](https://doi.org/10.1016/j.jfranklin.2024.107066).
 
 **Luka Martinović**, Žarko Zečević, Božo Krstajić, "Output containment control in heterogeneous multi-agent systems without exchange of controller states", European Journal of Control, 2023, 100889, ISSN 0947-3580, [https://doi.org/10.1016/j.ejcon.2023.100889](https://doi.org/10.1016/j.ejcon.2023.100889).
