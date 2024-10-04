@@ -11,6 +11,11 @@ I received BSc and Spec. Sci. degrees in Power and Control Systems from Faculty 
 
 Since September of 2019, I am employed at Faculty of Electrical Engineering, University of Montenegro, where I work as a teaching assistant. Some of the main courses that I have TAed are: Control Theory, Optimal Control, Adaptive Control, Digital Control and Robotics. For a full list of courses, see [courses](https://www.ucg.ac.me/radnik/900931-luka-martinovic).
 
+## Active and completed projects
+(Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including two 2-month long staff-exchanges at Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova and [Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb.
+
+(Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)). 
+
 ## Publications
 
 ### Journals
@@ -50,8 +55,3 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 
 #### Reviewer for Journals: [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021), [European Journal of Control](https://www.sciencedirect.com/journal/european-journal-of-control), [Information Sciences](https://www.sciencedirect.com/journal/information-sciences), [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation), [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), [Journal of Intelligent & Robotic Systems](https://www.springer.com/journal/10846/), [Signal Processing](https://www.sciencedirect.com/journal/signal-processing), [IEEE Access](https://ieeeaccess.ieee.org/).
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/).
-
-## Active and completed projects
-(Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including two 2-month long staff-exchanges at Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova and [Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb.
-
-(Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)). 
