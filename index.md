@@ -7,7 +7,7 @@ Teaching Assistant
 Email: [lukam@ucg.ac.me](lukam@ucg.ac.me)
 
 ## Brief Biography
-I received B.Sc. and Spec. Sci. degrees in Power and Control Systems from the Faculty of Electrical Engineering, University of Montenegro, in 2018 and 2019, respectively. The title of my Senior Thesis was "State Estimation in Sensor Networks via Distributed Kalman Filter". In July 2021, I earned an M.Sc. degree by defending the thesis "A Novel Distributed Algorithm for Control of Multi-Agent Systems". I obtained a Ph.D. on November 4, 2024, upon defending the thesis entitled "Cooperative Control of Heterogeneous Multi-Agent Systems Without Exchange of Controller States".
+I received B.Sc. and Spec. Sci. degrees in Power and Control Systems from the Faculty of Electrical Engineering, University of Montenegro, in 2018 and 2019, respectively. The title of my Senior Thesis was "State Estimation in Sensor Networks via Distributed Kalman Filter". In July 2021, I earned an M.Sc. degree by defending the thesis "A Novel Distributed Algorithm for Control of Multiagent Systems". I obtained a Ph.D. on November 4, 2024, upon defending the thesis entitled "Cooperative Control of Heterogeneous Multiagent Systems Without Exchange of Controller States".
 
 Since September of 2019, I am employed at Faculty of Electrical Engineering, University of Montenegro, where I work as a teaching assistant. Some of the main courses that I have TAed are: Control Theory, Optimal Control, Adaptive Control, Digital Control and Robotics. For a full list of courses, see [courses](https://www.ucg.ac.me/radnik/900931-luka-martinovic).
 
