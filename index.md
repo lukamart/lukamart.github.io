@@ -55,7 +55,7 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 
 **L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Control Strategy for Multi-Agent Systems Using Consensus Among Followers," 2020 24th International Conference on Information Technology (IT), 2020, pp. 1-4. DOI: [10.1109/IT48810.2020.9070617](https://ieeexplore.ieee.org/abstract/document/9306565).
 
-#### Awards: The Most Accomplished Young Scientist (under the age of 30) in Montenegro, in 2024.
+#### Awards: [Most Successful Young Scientist (under the age of 30) in Montenegro, in 2024](https://www.ucg.ac.me/objava/blog/1267/objava/193510-dr-luka-martinovic-awarded-as-most-successful-young-scientist-for-2024).
 
 #### Reviewer for Journals: [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021), [European Journal of Control](https://www.sciencedirect.com/journal/european-journal-of-control), [Information Sciences](https://www.sciencedirect.com/journal/information-sciences), [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation), [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), [Journal of Intelligent & Robotic Systems](https://www.springer.com/journal/10846/), [Signal Processing](https://www.sciencedirect.com/journal/signal-processing), [IEEE Access](https://ieeeaccess.ieee.org/).
 #### Reviewer for Conferences: [Information Technology - IT](http://www.it.ac.me/eng/).
