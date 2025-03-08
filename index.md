@@ -13,6 +13,8 @@ I received B.Sc. and Spec. Sci. degrees in Power and Control Systems from the Fa
 
 Since September of 2019, I am employed at Faculty of Electrical Engineering, University of Montenegro, where I work as a teaching assistant. Some of the main courses that I have TAed are: Control Theory, Optimal Control, Adaptive Control, Digital Control and Robotics. For a full list of courses, see [courses](https://www.ucg.ac.me/radnik/900931-luka-martinovic).
 
+A more detailed CV can be provided upon request.
+
 ## Active and completed projects
 (Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including two 2-month long staff-exchanges at Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova and [Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb.
 
