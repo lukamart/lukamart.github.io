@@ -1,5 +1,7 @@
 ## Luka Martinović
 
+<img src="assets/profile.jpg" alt="Luka Martinović" style="float: right; border-radius: 50%; width: 150px; margin-left: 20px;">  
+
 Teaching Associate
 
 [Faculty of Electrical Engineering, University of Montenegro](https://www.ucg.ac.me/etf)
