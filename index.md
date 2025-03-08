@@ -1,6 +1,6 @@
 ## Luka Martinović
 
-<img src="assets/profile.jpg" alt="Luka Martinović" style="float: right; border-radius: 50%; width: 150px; margin-left: 20px;">  
+<img src="assets/profile.jpg" alt="Luka Martinović" style="float: right; border-radius: 10px; width: 120px; height: 160px; margin-left: 20px;">  
 
 Teaching Associate
 
