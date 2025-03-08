@@ -1,6 +1,6 @@
 ## Luka Martinović
 
-Teaching Assistant
+Teaching Associate
 
 [Faculty of Electrical Engineering, University of Montenegro](https://www.ucg.ac.me/etf)
 
