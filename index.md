@@ -6,7 +6,7 @@ Teaching Associate
 
 [Faculty of Electrical Engineering, University of Montenegro](https://www.ucg.ac.me/etf)
 
-Email: [lukam@ucg.ac.me](lukam@ucg.ac.me)
+E-mails: [lukam@ucg.ac.me](lukam@ucg.ac.me), [lukam@ieee.org](lukam@ieee.org)
 
 ## Brief Biography
 I received B.Sc. and Spec. Sci. degrees in Power and Control Systems from the Faculty of Electrical Engineering, University of Montenegro, in 2018 and 2019, respectively. My senior thesis, *State Estimation in Sensor Networks via Distributed Kalman Filter*, was completed in the Control Systems Department. I earned both my M.Sc. in 2021, with the thesis *A Novel Distributed Algorithm for Control of Multiagent Systems*, and my Ph.D. in 2024, with the dissertation *Cooperative Control of Heterogeneous Multiagent Systems Without Exchange of Controller States*, from the same institution.
