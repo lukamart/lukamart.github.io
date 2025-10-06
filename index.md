@@ -24,7 +24,7 @@ A more detailed CV can be provided upon request.
 
 ### Journals
 
-Žarko Zečević, **Luka Martinović**, Lazar Ašanin, "Observer-based path following control of unmanned surface vehicle with exact compensation of sideslip angle", Ocean Engineering, Volume 342, Part 2, 2025, 122947, ISSN 0029-8018, (https://doi.org/10.1016/j.oceaneng.2025.122947)[https://doi.org/10.1016/j.oceaneng.2025.122947].
+Žarko Zečević, **Luka Martinović**, Lazar Ašanin, "Observer-based path following control of unmanned surface vehicle with exact compensation of sideslip angle", Ocean Engineering, Volume 342, Part 2, 2025, 122947, ISSN 0029-8018, [https://doi.org/10.1016/j.oceaneng.2025.122947](https://doi.org/10.1016/j.oceaneng.2025.122947).
 
 **L. Martinović**, Ž. Zečević, M. Bibuli, M. Caccia and Ð. Nađ, "Adaptive Observer-Based Line-of-Sight Guidance Law for Path Following of Underactuated Unmanned Surface Vehicle With Sideslip Compensation," in IEEE Access, vol. 12, pp. 144992-145002, 2024, [doi: 10.1109/ACCESS.2024.3471790](https://ieeexplore.ieee.org/document/10701520).
 
