@@ -16,7 +16,11 @@ Since September of 2019, I am employed at Faculty of Electrical Engineering, Uni
 A more detailed CV can be provided upon request.
 
 ## Active and completed projects
-(Active) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including two 2-month long staff-exchanges at Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova and [Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb.
+(Active) Scalable underWAter enviRonment Monitoring through acoustic networks: Advanced distributed sensing approach for aquatic ecosystem assessment ([SWARM](https://swarm.ucg.ac.me/)).
+
+(Active) Digital innovation hub for supporting the digital transformation of Montenegrin companies and the public sector ([MONTEDIH](https://montedih.me/)).
+
+(Completed) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including two 2-month long staff-exchanges at Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova and [Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb.
 
 (Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)). 
 
