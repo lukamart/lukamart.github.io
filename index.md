@@ -83,15 +83,12 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 
 **L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Control Strategy for Multi-Agent Systems Using Consensus Among Followers," 2020 24th International Conference on Information Technology (IT), 2020, pp. 1-4. DOI: [10.1109/IT48810.2020.9070617](https://ieeexplore.ieee.org/abstract/document/9306565).
 
-## Exchanges
+## Research Visits and Academic Exchanges
 
-The Applied Underwater Robotics Laboratory ([AURLab](https://www.ntnu.edu/aur-lab)), Norwegian University of Science and Technology (NTNU), in Trondheim, Norway, June-July 2026.
-
-Institute of Marine Engineering, Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova, Italy, September 2024. 
-
-[Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb, June-July 2024.
-
-Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova, Italy, June-July 2023. 
+- **[Applied Underwater Robotics Laboratory (AURLab)](https://www.ntnu.edu/aur-lab)**, Norwegian University of Science and Technology (NTNU), Trondheim, Norway — **June–July 2026**
+- **[Italian National Research Council (CNR)](http://www.inm.cnr.it/)**, Genova, Italy — **September 2024**
+- **[Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/)**, Faculty of Electrical Engineering and Computing, University of Zagreb, Zagreb, Croatia — **June–July 2024**
+- **[Italian National Research Council (CNR)](http://www.inm.cnr.it/)**, Genova, Italy — **June–July 2023** 
 
 
 #### Award for the [Most Successful Young Scientist (under the age of 30) in Montenegro](https://www.ucg.ac.me/objava/blog/1267/objava/193510-dr-luka-martinovic-awarded-as-most-successful-young-scientist-for-2024).
