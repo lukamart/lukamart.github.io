@@ -20,6 +20,10 @@ A more detailed CV can be provided upon request.
 
 (Active) Digital innovation hub for supporting the digital transformation of Montenegrin companies and the public sector ([MONTEDIH](https://montedih.me/)).
 
+(Active) National Competence Centres in the framework of EuroHPC Phase 2 - ([EuroCC2/EuroCC4SEE](https://www.eurohpc-ju.europa.eu/research-innovation/our-projects/eurocc-2_en)) 
+
+(Completed) SolarDrone: AI-Driven Drone Thermal Diagnostics of Solar Panels
+
 (Completed) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including two 2-month long staff-exchanges at Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova and [Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb.
 
 (Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)). 
@@ -41,6 +45,20 @@ A more detailed CV can be provided upon request.
 **Luka Martinović**, Žarko Zečević, Božo Krstajić, "Cooperative tracking control of single-integrator multi-agent systems with multiple leaders", European Journal of Control, Volume 63, 2022, Pages 232-239, ISSN 0947-3580, [https://doi.org/10.1016/j.ejcon.2021.11.003](https://doi.org/10.1016/j.ejcon.2021.11.003).
 
 ### Conferences
+**L. Martinović**, L. Ašanin and Ž. Zečević, "Line-of-Sight USV Path Following with Online Learning-Based Sideslip Compensation," 2026 6th International Conference on Machine Learning and Intelligent Systems Engineering (MLISE), Naples, Italy, 2026, pp. 450-455, doi: 10.1109/MLISE70044.2026.11607529.
+
+**L. Martinović**, Ž. Zečević and B. Krstajić, "Online Consensus Control of Discrete-Time Leader-Follower Multi-Agent Systems with Unknown Disturbances," 2026 30th International Conference on Information Technology (IT), Zabljak, Montenegro, 2026, pp. 1-4, doi: 10.1109/IT67293.2026.11435746.
+
+Ž. Zečević, **L. Martinović** and B. Krstajić, "Identification and Optimal Output Regulation of Linear Systems Using Integral Reinforcement Learning," 2026 30th International Conference on Information Technology (IT), Zabljak, Montenegro, 2026, pp. 1-4, doi: 10.1109/IT67293.2026.11435745.
+
+L. Ašanin, **L. Martinović** and Ž. Zečević, "A Novel 3D Line-of-Sight Guidance Law for Path Following of AUV Subject to Ocean Currents," 2026 30th International Conference on Information Technology (IT), Zabljak, Montenegro, 2026, pp. 1-4, doi: 10.1109/IT67293.2026.11435699.
+
+**L. Martinović**, Ž. Zečević, M. Bibuli and M. Caccia, "Cooperative Vector Field-Based Synchronized Path Following for Underactuated USVs," 2025 29th International Conference on Information Technology (IT), Zabljak, Montenegro, 2025, pp. 1-4, doi: 10.1109/IT64745.2025.10930292.
+
+L. Ašanin, **L. Martinović** and Z. Zečević, "Improved Line-of-Sight Guidance Law for Path Following of Autonomous Underwater Vehicle with Compensation of Drift and Lift Forces," 2025 29th International Conference on Information Technology (IT), Zabljak, Montenegro, 2025, pp. 1-4, doi: 10.1109/IT64745.2025.10930282.
+
+M. Otašević, **L. Martinović** and Ž. Zečević, "Distributed Guidance Law for Containment Maneuvering of Underactuated Surface Vehicles," 2025 29th International Conference on Information Technology (IT), Zabljak, Montenegro, 2025, pp. 1-4, doi: 10.1109/IT64745.2025.10930256.
+
 Ž. Zečević, **L. Martinović**, M. Bibuli, M. Caccia, M. Batoš and Đ. Nađ, "Cooperative Formation and Path Following Control of Multiple USVs Along Curved Paths," 2024 32nd Telecommunications Forum (TELFOR), Belgrade, Serbia, 2024, pp. 1-4, doi: 10.1109/TELFOR63250.2024.10819183.
 
 Ž. Zečević, **L. Martinović**, L. Ašanin, M. Bibuli, R. Ferretti, A. Odetti, S. Aracri and M. Caccia, "KF-based LOS Guidance Law for Path Following of USV: Experiments and Performance Evaluation," 2024 28th International Conference on Information Technology (IT), Zabljak, Montenegro, 2024, pp. 1-4, doi: 10.1109/IT61232.2024.10475764.
