@@ -103,4 +103,3 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 
 - **Journals:** [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021), [European Journal of Control](https://www.sciencedirect.com/journal/european-journal-of-control), [Information Sciences](https://www.sciencedirect.com/journal/information-sciences), [Applied Mathematics and Computation](https://www.journals.elsevier.com/applied-mathematics-and-computation), [IEEE Systems Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4267003), [Journal of Intelligent & Robotic Systems](https://www.springer.com/journal/10846/), [Signal Processing](https://www.sciencedirect.com/journal/signal-processing), [IEEE Access](https://ieeeaccess.ieee.org/).
 - **Conferences:** [Information Technology - IT](http://www.it.ac.me/eng/).
-```
