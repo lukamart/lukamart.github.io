@@ -24,7 +24,7 @@ A more detailed CV can be provided upon request.
 
 (Completed) SolarDrone: AI-Driven Drone Thermal Diagnostics of Solar Panels
 
-(Completed) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)), including two 2-month long staff-exchanges at Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova and [Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb.
+(Completed) MONtenegrin center for Underwater SEnsor Networks ([MONUSEN](http://monusen.ucg.ac.me/)).
 
 (Completed) FAult and STate dEtection of Rotary machineries based on acoustic signals ([FASTER](http://www.faster.ucg.ac.me)). 
 
@@ -82,6 +82,17 @@ V. Vukadinović, **L. Martinović**, Ž. Zečević and B. Krstajić, "Comparativ
 **L. Martinović**, Ž. Zečević and B. Krstajić, "Cooperative Output Regulation of Multi-Agent Systems with Single-Integrator Dynamics," 2020 28th Telecommunications Forum (TELFOR), 2020, pp. 1-4. DOI: [10.1109/TELFOR51502.2020.9306565](https://ieeexplore.ieee.org/abstract/document/9306565).
 
 **L. Martinović**, Ž. Zečević and B. Krstajić, "Distributed Control Strategy for Multi-Agent Systems Using Consensus Among Followers," 2020 24th International Conference on Information Technology (IT), 2020, pp. 1-4. DOI: [10.1109/IT48810.2020.9070617](https://ieeexplore.ieee.org/abstract/document/9306565).
+
+## Exchanges
+
+The Applied Underwater Robotics Laboratory ([AURLab](https://www.ntnu.edu/aur-lab)), Norwegian University of Science and Technology (NTNU), in Trondheim, Norway, June-July 2026.
+
+Institute of Marine Engineering, Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova, Italy, September 2024. 
+
+[Laboratory for Underwater Systems and Technologies (LABUST)](https://labust.fer.hr/), Faculty of Electrical Engineering and Computing, University of Zagreb, June-July 2024.
+
+Italian National Research Council ([CNR](http://www.inm.cnr.it/)) in Genova, Italy, June-July 2023. 
+
 
 #### Award for the [Most Successful Young Scientist (under the age of 30) in Montenegro](https://www.ucg.ac.me/objava/blog/1267/objava/193510-dr-luka-martinovic-awarded-as-most-successful-young-scientist-for-2024).
 
